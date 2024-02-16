@@ -6,7 +6,7 @@
  * Returns: the mean of the array. 
  */
 
-function getAverage(sonde_params, decimals = 2, ph = 0) {
+function get_average(sonde_params, decimals = 2, ph = 0) {
 	if (sonde_params.length < 1) {
 		return;
 	} else if (ph == 0){
