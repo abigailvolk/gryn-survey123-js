@@ -25,4 +25,3 @@ function get_average(sonde_params, decimals = 2, ph = 0) {
 	}
 	
 }
-
