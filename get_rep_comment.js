@@ -1,5 +1,5 @@
 /*
- * JavaScript functions for Survey123
+ * Created the comment for replicates and associates it with the activityID and date.
  */
 
 function get_rep_comment(activity_id, date_string){

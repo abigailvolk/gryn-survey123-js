@@ -1,5 +1,5 @@
 /*
- * JavaScript functions for Survey123
+ * Returns a comment for the blanks depending on type! Associates it with the ActivityID and date.
  */
 
 function get_blanks_comment(blank_type, activity_id, date_string) {

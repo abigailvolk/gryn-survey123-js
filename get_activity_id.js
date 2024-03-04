@@ -1,5 +1,7 @@
 /*
- * JavaScript functions for Survey123
+ * Inputs: strings for park ("YELL"), site ("MDR"), year ("24"), julian ("52"), clock ("1032"),
+ * 	whether it is a rep or not (rep = 0 returns "-2" on the end of the activity ID).
+ * Outputs: activityID string. 
  */
 
 function get_activity_id(park, site, year, julian, clock, rep) {
